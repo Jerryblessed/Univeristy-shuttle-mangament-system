@@ -1,0 +1,6 @@
+# Main requirements
+python-telegram-bot==13.5
+
+telegram ==2.25.1
+# Sub-dependencies
+logging == 1.4.14
