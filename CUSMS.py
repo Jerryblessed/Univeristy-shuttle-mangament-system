@@ -2,8 +2,7 @@
 # This program is a copy right software.
 
 """
-A Bot to handle University shuttle business in Covenant University using natural language processing.
-Covenant University is the university this bot is made for.
+A Bot to handle University shuttle business in a University using natural language processing.
 However, the locations can be modified to preferred institution.
 
 Dataset:
