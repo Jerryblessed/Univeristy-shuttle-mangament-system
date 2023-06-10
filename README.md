@@ -4,3 +4,4 @@ Download winrar.
 Extract "Telegram" into the same folder as "CUSMS.py".
 Get telegram token and input it in line 143. 
 Run CUSMS.py.
+https://vimeo.com/794390603?share=copy
